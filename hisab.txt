@@ -8,3 +8,6 @@ maine ye commit krr di
 2. using git reset --soft commands
 3. using git reset --mixed command
 4. will write these senteces again and will commit one at a time so head can saeve them in different chances
+
+
+--> let's start
