@@ -14,3 +14,5 @@ maine ye commit krr di
 1. using git reset --hard commands
 
 2. using git reset --soft commands
+
+3. using git reset --mixed command
