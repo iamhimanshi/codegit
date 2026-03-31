@@ -11,6 +11,3 @@ maine ye commit krr di
 
 
 --> let's start
-1. using git reset --hard commands
-
-2. using git reset --soft commands
