@@ -11,3 +11,6 @@ git config --global -e
 U - untracked  (git is unaware of this file)
 A - added or staged (git is aware of this file)
 C - commited (git is tracking the file)
+
+<!-- to know status of current points -->
+in terminal :- git log --oneline
