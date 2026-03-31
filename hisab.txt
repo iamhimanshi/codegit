@@ -4,10 +4,13 @@ maine ye commit krr di
 
 --> now let's play with new commands which can reset commit changes
 --> i will write 4 sentences here and will see what will happen to them on writing different commands
-1. using git reset --hard commands
-2. using git reset --soft commands
+1. using git reset --hard commands   ---> delete commit details completely 
+2. using git reset --soft commands  --->
 3. using git reset --mixed command
 4. will write these senteces again and will commit one at a time so head can saeve them in different chances
 
 
 --> let's start
+1. using git reset --hard commands
+
+2. using git reset --soft commands
