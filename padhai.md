@@ -19,7 +19,7 @@ in terminal :- git log --oneline
 
 <!-- going back to some previous saved point -->
 they are of three types :- 
-    git reset --hard HEAD~       
+    git reset --hard HEAD~ 1/2/3   ---->> if want to go back 1 write ~1, if want to go back 2 write ~2 and so on      
     <!-- this will delete all the changes you have done after the last commit also will delete from files -->
     git reset --soft HEAD~
     <!-- this will unstage the changes but keep them in the working directory -->
