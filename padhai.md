@@ -43,6 +43,8 @@ git log --graph --> this will show the commit history in a graphical format
 <!-- branches -->  brraches are used to create a separate line of development in a repository. It allows you to work on different features or bug fixes without affecting the main codebase.
 
 git branch --> this will show the list of branches in the repository
+<!-- to create branch -->
+git branch branch_name --> this will create a new branch with the name "branch_name"
 
 <!-- conflicts -->
 <!-- when two or more people are working on the same file and they make changes to the same line of code, it will create a conflict. Git will not be able to automatically merge the changes and will require manual intervention to resolve the conflict. -->
