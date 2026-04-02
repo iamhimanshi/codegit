@@ -31,5 +31,18 @@ they are of three types :-
 
 <!-- status and logs -->
  
+git status -s --> this will show the status of the files in a short format (unka sirf jo commited nhi h ya commit hobe ke baad change hua h)
 
- 
+git log  --> this will show the commit history in a detailed format
+
+git log --oneline --> this will show the commit history in a short format
+
+git log --graph --> this will show the commit history in a graphical format
+
+
+<!-- branches -->  brraches are used to create a separate line of development in a repository. It allows you to work on different features or bug fixes without affecting the main codebase.
+
+git branch --> this will show the list of branches in the repository
+
+<!-- conflicts -->
+<!-- when two or more people are working on the same file and they make changes to the same line of code, it will create a conflict. Git will not be able to automatically merge the changes and will require manual intervention to resolve the conflict. -->
