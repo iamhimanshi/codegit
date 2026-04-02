@@ -46,5 +46,19 @@ git branch --> this will show the list of branches in the repository
 <!-- to create branch -->
 git branch branch_name --> this will create a new branch with the name "branch_name"
 
+<!-- merge branches -->
+git merge branch_name --> this will merge the changes from "branch_name" into the current branch
+
+
 <!-- conflicts -->
 <!-- when two or more people are working on the same file and they make changes to the same line of code, it will create a conflict. Git will not be able to automatically merge the changes and will require manual intervention to resolve the conflict. -->
+
+<!-- resolve conflicts -->
+<!-- to resolve conflicts, you need to open the file that has the conflict and look for the conflict markers. The conflict markers will look like this: -->
+<<<<<<< HEAD
+This is the code from the current branch
+=======
+This is the code from the branch that is being merged
+>>>>>>> branch_name
+
+<!-- you need to decide which code to keep and which code to discard. After resolving the conflict, you need to stage the changes and commit them. -->
