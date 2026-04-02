@@ -26,3 +26,10 @@ they are of three types :-
     git reset --mixed HEAD~
     <!-- this will unstage the changes and discard them -->
 <!-- HEAD is a reference to the current commit -->
+
+
+
+<!-- status and logs -->
+ 
+
+ 
